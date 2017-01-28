@@ -11,7 +11,7 @@ Less people are familiar with the the bayesian approach though. Probability, in 
 I'd say, if you want to understand the bayesian approach you should try to understand a graph problem like that of the slippery surface given by
 
 
-
+<pre>
 Season  X1
 /             \
 
@@ -22,7 +22,7 @@ Wet  X4
 |
 |
 Slippery X5
-
+</pre>
 
 All these lines should be considered as pointing downwards, i.e., we are dealing with a directed graph (a DAG in this case).
 
