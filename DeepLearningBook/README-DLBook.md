@@ -1,6 +1,6 @@
 # Deep Learning Book 
 
-Some contributions to https://www.meetup.com/Deep-Learning-Toronto-Meetup/
+Some contributions to See also https://github.com/jabenitez/DeepLearningBook (https://www.meetup.com/Deep-Learning-Toronto-Meetup/ )
 
 See http://deeplearningbook.org
 
